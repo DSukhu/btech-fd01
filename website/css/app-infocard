@@ -1,6 +1,6 @@
 .callout-card {
   background: silver;
-  border: 1px solid #333;
+  border: 6px solid #333;
   box-shadow: 0 40px 40px rgba(0, 0, 0, 0.2);
   margin: 1rem 0;
   overflow: hidden; }
